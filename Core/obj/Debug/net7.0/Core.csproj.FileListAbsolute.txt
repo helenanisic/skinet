@@ -1,0 +1,12 @@
+/home/helena/Desktop/Learning/e-commerce/skinet/Core/bin/Debug/net7.0/Core.deps.json
+/home/helena/Desktop/Learning/e-commerce/skinet/Core/bin/Debug/net7.0/Core.dll
+/home/helena/Desktop/Learning/e-commerce/skinet/Core/bin/Debug/net7.0/Core.pdb
+/home/helena/Desktop/Learning/e-commerce/skinet/Core/obj/Debug/net7.0/Core.csproj.AssemblyReference.cache
+/home/helena/Desktop/Learning/e-commerce/skinet/Core/obj/Debug/net7.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/helena/Desktop/Learning/e-commerce/skinet/Core/obj/Debug/net7.0/Core.AssemblyInfoInputs.cache
+/home/helena/Desktop/Learning/e-commerce/skinet/Core/obj/Debug/net7.0/Core.AssemblyInfo.cs
+/home/helena/Desktop/Learning/e-commerce/skinet/Core/obj/Debug/net7.0/Core.csproj.CoreCompileInputs.cache
+/home/helena/Desktop/Learning/e-commerce/skinet/Core/obj/Debug/net7.0/Core.dll
+/home/helena/Desktop/Learning/e-commerce/skinet/Core/obj/Debug/net7.0/refint/Core.dll
+/home/helena/Desktop/Learning/e-commerce/skinet/Core/obj/Debug/net7.0/Core.pdb
+/home/helena/Desktop/Learning/e-commerce/skinet/Core/obj/Debug/net7.0/ref/Core.dll

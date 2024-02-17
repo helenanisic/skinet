@@ -1,0 +1,15 @@
+/home/helena/Desktop/Learning/e-commerce/skinet/Infrastructure/bin/Debug/net7.0/Infrastructure.deps.json
+/home/helena/Desktop/Learning/e-commerce/skinet/Infrastructure/bin/Debug/net7.0/Infrastructure.dll
+/home/helena/Desktop/Learning/e-commerce/skinet/Infrastructure/bin/Debug/net7.0/Infrastructure.pdb
+/home/helena/Desktop/Learning/e-commerce/skinet/Infrastructure/bin/Debug/net7.0/Core.dll
+/home/helena/Desktop/Learning/e-commerce/skinet/Infrastructure/bin/Debug/net7.0/Core.pdb
+/home/helena/Desktop/Learning/e-commerce/skinet/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.AssemblyReference.cache
+/home/helena/Desktop/Learning/e-commerce/skinet/Infrastructure/obj/Debug/net7.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/helena/Desktop/Learning/e-commerce/skinet/Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfoInputs.cache
+/home/helena/Desktop/Learning/e-commerce/skinet/Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfo.cs
+/home/helena/Desktop/Learning/e-commerce/skinet/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.CoreCompileInputs.cache
+/home/helena/Desktop/Learning/e-commerce/skinet/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.CopyComplete
+/home/helena/Desktop/Learning/e-commerce/skinet/Infrastructure/obj/Debug/net7.0/Infrastructure.dll
+/home/helena/Desktop/Learning/e-commerce/skinet/Infrastructure/obj/Debug/net7.0/refint/Infrastructure.dll
+/home/helena/Desktop/Learning/e-commerce/skinet/Infrastructure/obj/Debug/net7.0/Infrastructure.pdb
+/home/helena/Desktop/Learning/e-commerce/skinet/Infrastructure/obj/Debug/net7.0/ref/Infrastructure.dll
