@@ -71,3 +71,6 @@
 /home/helena/Desktop/Learning/e-commerce/skinet/API/bin/Debug/net7.0/Infrastructure.dll
 /home/helena/Desktop/Learning/e-commerce/skinet/API/bin/Debug/net7.0/Infrastructure.pdb
 /home/helena/Desktop/Learning/e-commerce/skinet/API/bin/Debug/net7.0/Core.pdb
+/home/helena/Desktop/Learning/e-commerce/skinet/API/bin/Debug/net7.0/AutoMapper.dll
+/home/helena/Desktop/Learning/e-commerce/skinet/API/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/helena/Desktop/Learning/e-commerce/skinet/API/bin/Debug/net7.0/API.staticwebassets.runtime.json

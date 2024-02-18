@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "L5bslAKSWTeh9ZKhNys3gt3EoHx5Dns3lesNygsyVDBbuBX/ZBZJOge/mmXQQSrNjvoDlbmdTJwXSfRSXpGBBw==",
+  "dgSpecHash": "lJmLJi9uSFnEuAGGSSYTuqJ/p2mJIR7T5GBbqI5DQGqgEKD/SS0hzqatw1wL0/HctuDONv/gp5ruX0Zv0f240Q==",
   "success": true,
   "projectFilePath": "/home/helena/Desktop/Learning/e-commerce/skinet/API/API.csproj",
   "expectedPackageFiles": [
+    "/home/helena/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/home/helena/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "/home/helena/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/helena/.nuget/packages/microsoft.aspnetcore.openapi/7.0.16/microsoft.aspnetcore.openapi.7.0.16.nupkg.sha512",
+    "/home/helena/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/home/helena/.nuget/packages/microsoft.data.sqlite.core/7.0.16/microsoft.data.sqlite.core.7.0.16.nupkg.sha512",
     "/home/helena/.nuget/packages/microsoft.entityframeworkcore/7.0.16/microsoft.entityframeworkcore.7.0.16.nupkg.sha512",
     "/home/helena/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.16/microsoft.entityframeworkcore.abstractions.7.0.16.nupkg.sha512",
